@@ -1,3 +1,4 @@
+# uusi rivi by sanna
 # Testdroid Samples
 
 Repository for Testdroid sample applications and test scripts.
@@ -22,4 +23,3 @@ for testing (older) iOS versions.
 ## License
 
 See the [LICENSE](LICENSE) file.
-
